@@ -6,11 +6,11 @@ module AuthorizationHelper
     res['token']
   end
 
-  def user_and_token
+  def user_and_token(controller)
     @controller = UsersController.new
     user = FactoryBot.create(:user)
     token = auth_tokens_for_user(user)
-    @controller = TracksController.new
+    @controller = controller
     [token, user]
   end
 end
