@@ -210,12 +210,24 @@
           null
         ]
       },
+      "/Users/matthiashaefeli/Documents/projects/personal/pq/spec/factories/groups.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/matthiashaefeli/Documents/projects/personal/pq/spec/factories/users.rb": {
         "lines": [
           1,
           1,
-          2,
-          2,
+          5,
+          5,
           null,
           null
         ]
@@ -225,6 +237,122 @@
           1,
           1,
           1,
+          1,
+          null
+        ]
+      },
+      "/Users/matthiashaefeli/Documents/projects/personal/pq/app/controllers/groups_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          3,
+          3,
+          3,
+          1,
+          null,
+          2,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          3,
+          null,
+          null
+        ]
+      },
+      "/Users/matthiashaefeli/Documents/projects/personal/pq/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/matthiashaefeli/Documents/projects/personal/pq/app/controllers/concerns/authorization.rb": {
+        "lines": [
+          1,
+          1,
+          3,
+          null,
+          null,
+          1,
+          3,
+          3,
+          3,
+          null,
+          null,
+          null,
+          1,
+          6,
+          6,
+          null,
+          6,
+          0,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/matthiashaefeli/Documents/projects/personal/pq/spec/controllers/users_controller_spec.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
           null
         ]
       },
@@ -232,18 +360,18 @@
         "lines": [
           1,
           1,
-          0,
+          3,
           null,
-          0,
-          0,
+          3,
+          3,
           null,
           null,
           1,
-          0,
-          0,
-          0,
-          0,
-          0,
+          3,
+          3,
+          3,
+          3,
+          3,
           null,
           null
         ]
@@ -262,26 +390,38 @@
           null,
           null,
           1,
-          2,
-          2,
-          1,
-          1,
-          null,
-          1,
-          null,
-          null,
-          null,
-          1,
-          null,
-          1,
           5,
+          5,
+          4,
+          4,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          8,
           null,
           null
         ]
       },
-      "/Users/matthiashaefeli/Documents/projects/personal/pq/app/controllers/application_controller.rb": {
+      "/Users/matthiashaefeli/Documents/projects/personal/pq/spec/models/group_spec.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/matthiashaefeli/Documents/projects/personal/pq/spec/requests/groups_request_spec.rb": {
         "lines": [
           1,
+          null,
+          1,
+          null,
           null
         ]
       },
@@ -306,18 +446,29 @@
           1,
           null,
           1,
-          2,
+          5,
           null,
           null,
           1,
-          0,
-          0,
+          6,
+          6,
           null,
           null,
           null
         ]
+      },
+      "/Users/matthiashaefeli/Documents/projects/personal/pq/app/models/group.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          4,
+          null
+        ]
       }
     },
-    "timestamp": 1598205242
+    "timestamp": 1598209873
   }
 }
